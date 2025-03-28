@@ -76,13 +76,13 @@ cd <nom_de_votre_dossier>
 #### Sur Linux / macOS :
 
 ```sh
-python3 enigma.py
+python3 enigmamachine.py
 ```
 
 #### Sur Windows :
 
 ```sh
-python enigma.py
+python enigmamachine.py
 ```
 
 ---
